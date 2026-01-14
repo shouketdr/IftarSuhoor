@@ -1,0 +1,15 @@
+{
+  "name": "Ramadan Tracker 2026",
+  "short_name": "Ramadan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e21",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2290/2290543.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
